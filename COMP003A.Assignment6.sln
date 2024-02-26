@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP003A.Assignment6", "COMP003A.Assignment6\COMP003A.Assignment6.csproj", "{71B0CABB-47B4-401A-B2C7-2145D7A65BAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FDAD9058-F6A9-4CC8-A278-2B08123866D4}"
+	ProjectSection(SolutionItems) = preProject
+		Ivehicle.cs = Ivehicle.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B0CABB-47B4-401A-B2C7-2145D7A65BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B0CABB-47B4-401A-B2C7-2145D7A65BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B0CABB-47B4-401A-B2C7-2145D7A65BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B0CABB-47B4-401A-B2C7-2145D7A65BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55325C1D-49FA-4DD8-B358-E32631D69CCF}
+	EndGlobalSection
+EndGlobal
